@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @curtisgry
 - 👀 I’m interested in making web apps and solving problems
-- 🌱 I’m currently learning React, Express and MongoDB
+- 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me curtis@curtisgray.dev
 
