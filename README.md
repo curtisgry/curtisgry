@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @curtisgry
 - 👀 I’m interested in making web apps and solving problems
-- 🌱 I’m currently enrolled in Careerfoundry's Web Development program.
-- 💞️ I’m looking to collaborate on anything!
+- 🌱 I’m currently making websites at WideEye
 - 📫 How to reach me curtisgray.dev@gmail.com
 
 <!---
